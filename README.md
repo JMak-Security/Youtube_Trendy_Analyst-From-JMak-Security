@@ -1,8 +1,8 @@
-# YT-Trendy_Analyst_V1 (From JMak-Security)
+# Youtube_Trendy_Analyst (From JMak-Security)
 
-**[YT-Trendy_Analyst_V1]** is a lightweight, Python-based multimodal video intelligence scanner and audience retention analytics engine. It allows independent creators, developers, and data analysts to process raw local video tracks directly, cross-reference them with live search trends, and extract structured optimization data to maximize platform engagement.
+**[Youtube_Trendy_Analyst]** is a lightweight, Python-based multimodal video intelligence scanner and audience retention analytics engine. It allows independent creators, developers, and data analysts to process raw local video tracks directly, cross-reference them with live search trends, and extract structured optimization data to maximize platform engagement.
 
-The goal of **[YT-Trendy_Analyst_V1]** is to bridge the gap between creative video production and algorithmic platform performance, using cutting-edge vision and language understanding to identify drop-off risks and generate conversion-focused video metadata automatically.
+The goal of **[Youtube_Trendy_Analyst]** is to bridge the gap between creative video production and algorithmic platform performance, using cutting-edge vision and language understanding to identify drop-off risks and generate conversion-focused video metadata automatically.
 
 ---
 
