@@ -29,7 +29,7 @@ The goal of **[Youtube_Trendy_Analyst]** is to bridge the gap between creative v
 
 ## 🏆 Hackathon Recognition & Judge Feedback
 
-This project was built and submitted during **HackDay Lucknow**. Below is the official evaluation and feedback provided by the judging panel (Piyush Sahu):
+This project (Version 1) was built and submitted during **HackDay Lucknow**. Below is the official evaluation and feedback provided by the judging panel (Piyush Sahu):
 
 ### 🌟 Strengths
 * **Robust Backend Foundations:** Strong backend engineering fundamentals with a well-designed asynchronous FastAPI pipeline.
